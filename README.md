@@ -2,4 +2,6 @@
 
 The data is available in ci_cb_2023-06-26.csv.
 
-Reproduction code for the numbers and figures in the main text is available in "Main-Text-Final.R" and "Main-Text-Final.ipynb".
+Reproduction code for the numbers in the main text is available in "Main-Text-Final.R" and "Main-Text-Final.ipynb".
+
+The final figures can be reproduced using "Updated_Figures.ipynb"
